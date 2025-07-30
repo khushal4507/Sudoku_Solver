@@ -4,7 +4,7 @@
  *=====================
  *
  * Started On - May, 2024
- * Author - Alok Kumar Singh
+ * Author - Khushal Karadiya
  * Objective - Takes in Sudoku puzzles and outputs the solution.
 */
 
